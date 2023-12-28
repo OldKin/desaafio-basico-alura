@@ -1,5 +1,5 @@
 let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Hora do desafio';
+titulo.innerHTML = 'Primeiro desafio';
 
 
 function verificarClique() {
@@ -12,7 +12,7 @@ function alertaClique() {
 
 function nomeCidade () {
    let cidade = prompt("Escreva o nome de uma cidade do brasil");
-   alert('Estive em ' + cidade + ' e lembrei de você.'); 
+   alert('Estive em ' + cidade + ' e lembrei de você!.'); 
 };
 
 function soma() {
